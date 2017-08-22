@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Color input for CF7\n"
+"POT-Creation-Date: 2017-07-24 11:01+0200\n"
+"PO-Revision-Date: 2017-08-21 02:48+0200\n"
+"Last-Translator: \n"
+"Language-Team: Florent Maillefaud <contact@restezconnectes.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-wpcf7-color-admin.php:71
+msgid "color"
+msgstr "Couleur"
+
+#: admin/class-wpcf7-color-admin.php:86
+msgid "Generate a form-tag for a color field."
+msgstr "Générer une balise de formulaire pour un champ de couleur."
+
+#: admin/class-wpcf7-color-admin.php:95 admin/class-wpcf7-color-admin.php:100
+msgid "Field type"
+msgstr "Type de champ"
+
+#: admin/class-wpcf7-color-admin.php:102
+msgid "Required field"
+msgstr "Champ requis"
+
+#: admin/class-wpcf7-color-admin.php:109
+msgid "Default value (optional)"
+msgstr "Valeur par défaut (optionnel)"
+
+#: admin/class-wpcf7-color-admin.php:119
+msgid "Name"
+msgstr "Nom"
+
+#: admin/class-wpcf7-color-admin.php:124
+msgid ""
+"For better security, change \"color\" to something less bot-recognizable."
+msgstr ""
+"Pour une meilleure sécurité, changez \"color\" en quelque chose de moins "
+"reconnaissable."
+
+#: admin/class-wpcf7-color-admin.php:130
+msgid "ID (optional)"
+msgstr "ID (optionnel)"
+
+#: admin/class-wpcf7-color-admin.php:139
+msgid "Class attribute"
+msgstr "Attribut de Class"
+
+#: admin/class-wpcf7-color-admin.php:154
+msgid "Insert Tag"
+msgstr "Insérer la balise"
+
+#: includes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Installer les plug-ins requis"
+
+#: includes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Installer les plug-ins"
+
+#: includes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installation du plug-in : %s"
+
+#: includes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Mise à jour du plug-in : %s"
+
+#: includes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Un problème est survenu avec l'API de l'extension"
+
+#: includes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Retourner à l'installateur de plug-ins requis."
+
+#: includes/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr "Retourner au tableau de bord"
+
+#: includes/class-tgm-plugin-activation.php:394
+#: includes/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr "Plug-in activé avec succès."
+
+#: includes/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr "Le plugin suivant a été activé avec succès :"
+
+#: includes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Aucune action effectuée. L'extension %1$s était déjà active."
+
+#: includes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin non activée. Une version plus récente de %s est nécessaire pour ce "
+"thème. Veuillez  mettre à jour l'extension."
+
+#: includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tous les plug-ins ont été installés et activés avec succès. %1$s"
+
+#: includes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Ignorer cette notice."
+
+#: includes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Il existe un ou plusieurs plugins requis ou recommandés pour l'installation, "
+"la mise à jour ou l'activation."
+
+#: includes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Contactez l’administrateur du site pour de l’aide."
+
+#: includes/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr "Obligatoire"
+
+#: includes/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr "Recommandé"
+
+#: includes/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr "Répertoire Wordpress"
+
+#: includes/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr "Source externe"
+
+#: includes/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr "Pré-emballé"
+
+#: includes/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr "Non installé"
+
+#: includes/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr "Installé mais non-activé"
+
+#: includes/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr "Actif"
+
+#: includes/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr "La mise à jour requise n'est pas disponible"
+
+#: includes/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr "Mise à jour requise"
+
+#: includes/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+#: includes/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr "Version installée :"
+
+#: includes/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr "Version minimum requise :"
+
+#: includes/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr "Version disponible :"
+
+#: includes/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr "Plug-in"
+
+#: includes/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr "Source"
+
+#: includes/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr "Type"
+
+#: includes/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr "Version"
+
+#: includes/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr "Status"
+
+#: includes/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr "Installation de %2$s"
+
+#: includes/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr "Mise à jour de %2$s"
+
+#: includes/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activer %2$s"
+
+#: includes/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr "Installer"
+
+#: includes/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: includes/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr "Activer"
+
+#: includes/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Aucune extension n’a été sélectionnée pour être installée. Pas d’action "
+"prise."
+
+#: includes/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Aucune extension n'a été sélectionnée pour être mis à jour. Aucune action "
+"effectuée."
+
+#: includes/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr "Aucune extension n'est disponible pour être installée pour l'instant."
+
+#: includes/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr "Aucunes extensions ne peuvent être mises à jour pour l'instant."
+
+#: includes/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr "L'activation du plug-in à échoué"
+
+#: includes/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour du Plugin %1$s (%2$d/%3$d)"
+
+#: includes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Une erreur est survenue lors de l'installation de %1$s: <strong>%2$s</"
+"strong>."
+
+#: includes/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "L'installation de %1$s à échoué."
+
+#: includes/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Le processus d’installation et d’activation commence. Ce processus peut "
+"prendre un certain temps sur certains serveurs. S’il vous plaît soyez "
+"patient."
+
+#: includes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installé et activé avec succès."
+
+#: includes/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et les activations ont été complétés."
+
+#: includes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation du plug-in %1$s (%2$d/%3$d)"
+
+#: includes/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"L'installation est en cours. Cette opération peut prendre plusieurs minutes, "
+"soyez patient."
+
+#: includes/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr "Tous les installations ont été complétés."
+
+#: includes/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation du plug-in %1$s (%2$d/%3$d)"
+
+#: public/class-wpcf7-color-public.php:144
+msgid "Pick a color"
+msgstr "Choisissez une couleur"
+
+#~ msgid "Color Picker"
+#~ msgstr "Couleur"
+
+#~ msgid "Class (optional)"
+#~ msgstr "Class (optionnel)"
+
+#~ msgid "Copy this code and paste it into the form left."
+#~ msgstr "Copier ce code et coller le dans le formulaire."
