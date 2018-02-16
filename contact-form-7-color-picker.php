@@ -18,7 +18,7 @@
  * Text Domain: cf7-color-picker
 */
 
-define( 'WPCF7_COLOR_VERSION', '0.1' );
+define( 'WPCF7_COLOR_VERSION', '0.1.1' );
 define( 'WPCF7_COLOR_PLUGIN_NAME', 'cf7-color-picker' );
 
 // If this file is called directly, abort.
