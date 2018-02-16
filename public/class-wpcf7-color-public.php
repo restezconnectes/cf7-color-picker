@@ -141,10 +141,10 @@ class Wpcf7_Color_Public {
 
         $html = '<div id="color-div-general">';
         $html .= '<div id="color-div-field">
-                    <input type="text" name="' . $atts['name'] . '" id="color_value" value="'.$atts['defaultcolor'][0].'" class="jscolor {valueElement: \'color_value\'} ' . $atts['class'] . '">
+                    <input type="text" name="' . $atts['name'] . '" id="' . $atts['name'] . '" value="'.$atts['defaultcolor'][0].'" class="jscolor {valueElement: \'' . $atts['name'] . '\'} ' . $atts['class'] . '">
                 </div>';
         $html .= "<div id='color-div-button'>
-                    <!--<button class=\"jscolor {valueElement: 'color_value' }\">".esc_html(__('Pick a color', 'cf7-color-picker'))."</button>-->
+                    <!--<button class=\"jscolor {valueElement: '" . $atts['name'] . "' }\">".esc_html(__('Pick a color', 'cf7-color-picker'))."</button>-->
                   </div>";
         $html .= "<div class='clear'></div></div>";
         $html .= $validation_error;

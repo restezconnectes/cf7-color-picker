@@ -1,10 +1,10 @@
 === Color Picker for Contact Form 7 ===
 Contributors: Florent73
 Donate link: https://www.paypal.me/RestezConnectes/
-Tags: color, contact form 7, forms, wordpress
+Tags: color picker, contact form 7, forms, wordpress
 Requires at least: 3.0
-Tested up to: 4.8.1
-Stable tag: 0.1
+Tested up to: 4.9.4
+Stable tag: 0.1.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -40,8 +40,8 @@ Yes. Thank you for submitting your changes to update the plugin.
 
 == Upgrade Notice ==
 
-= 0.1 =
-This version is stable
+= 0.1.1 =
+Bug multi color field fixed
 
 == Changelog ==
 
