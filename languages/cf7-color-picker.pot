@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Color input for CF7\n"
-"POT-Creation-Date: 2017-08-21 02:47+0200\n"
+"POT-Creation-Date: 2018-02-17 13:12+0100\n"
 "PO-Revision-Date: 2015-03-19 11:19+0100\n"
 "Last-Translator: Florent Maillefaud <contact@restezconnectes.fr>\n"
 "Language-Team: Florent Maillefaud <contact@restezconnectes.fr>\n"
@@ -10,291 +10,51 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.3\n"
+"X-Generator: Poedit 2.0.6\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: ..\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: admin/class-wpcf7-color-admin.php:71
+#: admin/class-wpcf7-color-admin.php:73
 msgid "color"
 msgstr ""
 
-#: admin/class-wpcf7-color-admin.php:86
+#: admin/class-wpcf7-color-admin.php:88
 msgid "Generate a form-tag for a color field."
 msgstr ""
 
-#: admin/class-wpcf7-color-admin.php:95 admin/class-wpcf7-color-admin.php:100
+#: admin/class-wpcf7-color-admin.php:97 admin/class-wpcf7-color-admin.php:102
 msgid "Field type"
 msgstr ""
 
-#: admin/class-wpcf7-color-admin.php:102
+#: admin/class-wpcf7-color-admin.php:104
 msgid "Required field"
 msgstr ""
 
-#: admin/class-wpcf7-color-admin.php:109
+#: admin/class-wpcf7-color-admin.php:111
 msgid "Default value (optional)"
 msgstr ""
 
-#: admin/class-wpcf7-color-admin.php:119
+#: admin/class-wpcf7-color-admin.php:121
 msgid "Name"
 msgstr ""
 
-#: admin/class-wpcf7-color-admin.php:124
+#: admin/class-wpcf7-color-admin.php:126
 msgid "For better security, change \"color\" to something less bot-recognizable."
 msgstr ""
 
-#: admin/class-wpcf7-color-admin.php:130
+#: admin/class-wpcf7-color-admin.php:132
 msgid "ID (optional)"
 msgstr ""
 
-#: admin/class-wpcf7-color-admin.php:139
+#: admin/class-wpcf7-color-admin.php:141
 msgid "Class attribute"
 msgstr ""
 
-#: admin/class-wpcf7-color-admin.php:154
+#: admin/class-wpcf7-color-admin.php:156
 msgid "Insert Tag"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:334
-msgid "Install Required Plugins"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:335
-msgid "Install Plugins"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:337
-#, php-format
-msgid "Installing Plugin: %s"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:339
-#, php-format
-msgid "Updating Plugin: %s"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:340
-msgid "Something went wrong with the plugin API."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:392
-msgid "Return to Required Plugins Installer"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:393
-msgid "Return to the Dashboard"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:394
-#: includes/class-tgm-plugin-activation.php:3252
-msgid "Plugin activated successfully."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:395
-msgid "The following plugin was activated successfully:"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:397
-#, php-format
-msgid "No action taken. Plugin %1$s was already active."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:399
-#, php-format
-msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:401
-#, php-format
-msgid "All plugins installed and activated successfully. %1$s"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:402
-msgid "Dismiss this notice"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:403
-msgid "There are one or more required or recommended plugins to install, update or activate."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:404
-msgid "Please contact the administrator of this site for help."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2075
-#, php-format
-msgid "TGMPA v%s"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2366
-msgid "Required"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2369
-msgid "Recommended"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2385
-msgid "WordPress Repository"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2388
-msgid "External Source"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2391
-msgid "Pre-Packaged"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2408
-msgid "Not Installed"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2412
-msgid "Installed But Not Activated"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2414
-msgid "Active"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2420
-msgid "Required Update not Available"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2423
-msgid "Requires Update"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2426
-msgid "Update recommended"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2583
-msgid "Installed version:"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2591
-msgid "Minimum required version:"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2603
-msgid "Available version:"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2640
-msgid "Plugin"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2641
-msgid "Source"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2642
-msgid "Type"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2646
-msgid "Version"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2647
-msgid "Status"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2696
-#, php-format
-msgid "Install %2$s"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2701
-#, php-format
-msgid "Update %2$s"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2707
-#, php-format
-msgid "Activate %2$s"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2810
-msgid "Install"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2816
-msgid "Update"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2819
-msgid "Activate"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2850
-msgid "No plugins were selected to be installed. No action taken."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2852
-msgid "No plugins were selected to be updated. No action taken."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2893
-msgid "No plugins are available to be installed at this time."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:2895
-msgid "No plugins are available to be updated at this time."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:3251
-msgid "Plugin activation failed."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:3591
-#, php-format
-msgid "Updating Plugin %1$s (%2$d/%3$d)"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:3594
-#, php-format
-msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:3596
-#, php-format
-msgid "The installation of %1$s failed."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:3600
-msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:3602
-#, php-format
-msgid "%1$s installed and activated successfully."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:3603
-msgid "All installations and activations have been completed."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:3605
-#, php-format
-msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:3608
-msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:3611
-msgid "All installations have been completed."
-msgstr ""
-
-#: includes/class-tgm-plugin-activation.php:3613
-#, php-format
-msgid "Installing Plugin %1$s (%2$d/%3$d)"
 msgstr ""
 
 #: public/class-wpcf7-color-public.php:147

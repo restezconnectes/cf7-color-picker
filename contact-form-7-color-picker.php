@@ -10,7 +10,7 @@
  * Plugin Name: Contact Form 7 Color Picker
  * Plugin URI: https://restezconnectes.fr
  * Description: Easily add a color field to your CF7 forms. This plugin depends on Contact Form 7.
- * Version:     0.1
+ * Version:     0.1.1
  * Author:      Florent Maillefaud
  * Author URI:  https://restezconnectes.fr
  * License:     GPL3 or later
